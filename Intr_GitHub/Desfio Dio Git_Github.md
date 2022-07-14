@@ -20,6 +20,16 @@ Git é um **sistema distribuído** ***opensource\*** **de controle de versão** 
 
 
 
+## O que é GitHub :cat2:
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo, ou seja, O **GitHub** é o maior repositório de dados compartilhado do mundo, com 28 milhões de usuários atualmente. É uma plataforma majoritariamente usada por desenvolvedores, pois permite uma hospedagem prática de código-fonte e arquivos em nuvem.
+
+[Link GitHub](https://github.com/)
+
+Obs.: Tem que cadastrar uma conta de Usuário.
+
+
+
 ## Material de Apoio :books:
 
 [O que é Git](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/) :computer_mouse:
